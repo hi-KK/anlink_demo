@@ -8,3 +8,7 @@
   url.txt：填写网址，以http://、https:// 格式，一行一个  
   rules.txt：填写违禁词，一行一个  
   result.txt：输出扫描结果，以 | 隔开  
+## 效果
+程序运行与结果输出  
+ ![程序运行](./demo.png)  
+ ![结果输出](./demo2.png)
